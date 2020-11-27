@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-17-Calculate-GCD\bin\Debug\Problem-17-Calculate-GCD.exe.config
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-17-Calculate-GCD\bin\Debug\Problem-17-Calculate-GCD.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-17-Calculate-GCD\bin\Debug\Problem-17-Calculate-GCD.pdb
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-17-Calculate-GCD\obj\Debug\Problem-17-Calculate-GCD.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-17-Calculate-GCD\obj\Debug\Problem-17-Calculate-GCD.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-17-Calculate-GCD\obj\Debug\Problem-17-Calculate-GCD.pdb

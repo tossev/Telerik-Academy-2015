@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-09-Sorting-array\bin\Debug\Problem-09-Sorting-array.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-09-Sorting-array\bin\Debug\Problem-09-Sorting-array.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-09-Sorting-array\bin\Debug\Problem-09-Sorting-array.pdb
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-09-Sorting-array\obj\Debug\Problem-09-Sorting-array.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-09-Sorting-array\obj\Debug\Problem-09-Sorting-array.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-09-Sorting-array\obj\Debug\Problem-09-Sorting-array.pdb

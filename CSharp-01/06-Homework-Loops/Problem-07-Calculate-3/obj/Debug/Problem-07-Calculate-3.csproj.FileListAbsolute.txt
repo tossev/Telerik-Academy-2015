@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-07-Calculate-3\bin\Debug\Problem-07-Calculate-3.exe.config
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-07-Calculate-3\bin\Debug\Problem-07-Calculate-3.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-07-Calculate-3\bin\Debug\Problem-07-Calculate-3.pdb
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-07-Calculate-3\obj\Debug\Problem-07-Calculate-3.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-07-Calculate-3\obj\Debug\Problem-07-Calculate-3.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-07-Calculate-3\obj\Debug\Problem-07-Calculate-3.pdb

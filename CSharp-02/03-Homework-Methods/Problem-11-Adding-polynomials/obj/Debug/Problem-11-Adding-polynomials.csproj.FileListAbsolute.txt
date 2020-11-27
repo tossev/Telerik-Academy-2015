@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-11-Adding-polynomials\bin\Debug\Problem-11-Adding-polynomials.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-11-Adding-polynomials\bin\Debug\Problem-11-Adding-polynomials.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-11-Adding-polynomials\bin\Debug\Problem-11-Adding-polynomials.pdb
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-11-Adding-polynomials\obj\Debug\Problem-11-Adding-polynomials.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-11-Adding-polynomials\obj\Debug\Problem-11-Adding-polynomials.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-11-Adding-polynomials\obj\Debug\Problem-11-Adding-polynomials.pdb

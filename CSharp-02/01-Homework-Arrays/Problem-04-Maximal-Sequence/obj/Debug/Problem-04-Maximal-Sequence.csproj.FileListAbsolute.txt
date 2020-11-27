@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-04-Maximal-Sequence\bin\Debug\Problem-04-Maximal-Sequence.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-04-Maximal-Sequence\bin\Debug\Problem-04-Maximal-Sequence.exe
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-04-Maximal-Sequence\bin\Debug\Problem-04-Maximal-Sequence.pdb
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-04-Maximal-Sequence\obj\Debug\Problem-04-Maximal-Sequence.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-04-Maximal-Sequence\obj\Debug\Problem-04-Maximal-Sequence.exe
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-04-Maximal-Sequence\obj\Debug\Problem-04-Maximal-Sequence.pdb

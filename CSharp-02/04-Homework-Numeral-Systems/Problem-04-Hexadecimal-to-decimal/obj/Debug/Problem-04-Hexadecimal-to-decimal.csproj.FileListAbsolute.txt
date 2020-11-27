@@ -1,0 +1,5 @@
+D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-04-Hexadecimal-to-decimal\bin\Debug\Problem-04-Hexadecimal-to-decimal.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-04-Hexadecimal-to-decimal\bin\Debug\Problem-04-Hexadecimal-to-decimal.exe
+D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-04-Hexadecimal-to-decimal\bin\Debug\Problem-04-Hexadecimal-to-decimal.pdb
+D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-04-Hexadecimal-to-decimal\obj\Debug\Problem-04-Hexadecimal-to-decimal.exe
+D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-04-Hexadecimal-to-decimal\obj\Debug\Problem-04-Hexadecimal-to-decimal.pdb

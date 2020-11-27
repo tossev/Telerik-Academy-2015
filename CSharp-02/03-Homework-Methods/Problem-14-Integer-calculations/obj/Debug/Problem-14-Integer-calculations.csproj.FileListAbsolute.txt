@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-14-Integer-calculations\bin\Debug\Problem-14-Integer-calculations.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-14-Integer-calculations\bin\Debug\Problem-14-Integer-calculations.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-14-Integer-calculations\bin\Debug\Problem-14-Integer-calculations.pdb
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-14-Integer-calculations\obj\Debug\Problem-14-Integer-calculations.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-14-Integer-calculations\obj\Debug\Problem-14-Integer-calculations.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-14-Integer-calculations\obj\Debug\Problem-14-Integer-calculations.pdb

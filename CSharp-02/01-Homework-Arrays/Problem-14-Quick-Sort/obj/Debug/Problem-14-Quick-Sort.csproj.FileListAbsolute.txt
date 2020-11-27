@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-14-Quick-Sort\bin\Debug\Problem-14-Quick-Sort.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-14-Quick-Sort\obj\Debug\Problem-14-Quick-Sort.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-14-Quick-Sort\bin\Debug\Problem-14-Quick-Sort.exe
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-14-Quick-Sort\bin\Debug\Problem-14-Quick-Sort.pdb
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-14-Quick-Sort\obj\Debug\Problem-14-Quick-Sort.exe
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-14-Quick-Sort\obj\Debug\Problem-14-Quick-Sort.pdb

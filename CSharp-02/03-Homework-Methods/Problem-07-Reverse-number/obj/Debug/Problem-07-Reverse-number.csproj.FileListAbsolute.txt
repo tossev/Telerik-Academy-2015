@@ -1,0 +1,5 @@
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-07-Reverse-number\bin\Debug\Problem-07-Reverse-number.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-07-Reverse-number\bin\Debug\Problem-07-Reverse-number.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-07-Reverse-number\bin\Debug\Problem-07-Reverse-number.pdb
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-07-Reverse-number\obj\Debug\Problem-07-Reverse-number.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-07-Reverse-number\obj\Debug\Problem-07-Reverse-number.pdb

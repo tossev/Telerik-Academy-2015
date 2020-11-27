@@ -1,0 +1,5 @@
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-06-Maximal-K-sum\bin\Debug\Problem-06-Maximal-K-sum.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-06-Maximal-K-sum\bin\Debug\Problem-06-Maximal-K-sum.exe
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-06-Maximal-K-sum\bin\Debug\Problem-06-Maximal-K-sum.pdb
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-06-Maximal-K-sum\obj\Debug\Problem-06-Maximal-K-sum.exe
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-06-Maximal-K-sum\obj\Debug\Problem-06-Maximal-K-sum.pdb

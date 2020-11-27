@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-01-Fill-the-matrix\bin\Debug\Problem-01-Fill-the-matrix.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-01-Fill-the-matrix\bin\Debug\Problem-01-Fill-the-matrix.exe
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-01-Fill-the-matrix\bin\Debug\Problem-01-Fill-the-matrix.pdb
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-01-Fill-the-matrix\obj\Debug\Problem-01-Fill-the-matrix.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-01-Fill-the-matrix\obj\Debug\Problem-01-Fill-the-matrix.exe
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-01-Fill-the-matrix\obj\Debug\Problem-01-Fill-the-matrix.pdb
