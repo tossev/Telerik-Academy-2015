@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-05-Sort-by-string-length\bin\Debug\Problem-05-Sort-by-string-length.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-05-Sort-by-string-length\bin\Debug\Problem-05-Sort-by-string-length.exe
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-05-Sort-by-string-length\bin\Debug\Problem-05-Sort-by-string-length.pdb
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-05-Sort-by-string-length\obj\Debug\Problem-05-Sort-by-string-length.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-05-Sort-by-string-length\obj\Debug\Problem-05-Sort-by-string-length.exe
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-05-Sort-by-string-length\obj\Debug\Problem-05-Sort-by-string-length.pdb

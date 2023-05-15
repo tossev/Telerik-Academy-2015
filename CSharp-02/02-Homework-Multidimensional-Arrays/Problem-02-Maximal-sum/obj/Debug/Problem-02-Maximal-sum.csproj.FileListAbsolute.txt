@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-02-Maximal-sum\bin\Debug\Problem-02-Maximal-sum.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-02-Maximal-sum\bin\Debug\Problem-02-Maximal-sum.exe
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-02-Maximal-sum\bin\Debug\Problem-02-Maximal-sum.pdb
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-02-Maximal-sum\obj\Debug\Problem-02-Maximal-sum.exe
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-02-Maximal-sum\obj\Debug\Problem-02-Maximal-sum.pdb
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-02-Maximal-sum\obj\Debug\Problem-02-Maximal-sum.csprojResolveAssemblyReference.cache

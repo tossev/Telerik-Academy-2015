@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-01-Say-Hello\bin\Debug\Problem-01-Say-Hello.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-01-Say-Hello\obj\Debug\Problem-01-Say-Hello.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-01-Say-Hello\bin\Debug\Problem-01-Say-Hello.exe
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-01-Say-Hello\bin\Debug\Problem-01-Say-Hello.pdb
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-01-Say-Hello\obj\Debug\Problem-01-Say-Hello.exe
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-01-Say-Hello\obj\Debug\Problem-01-Say-Hello.pdb

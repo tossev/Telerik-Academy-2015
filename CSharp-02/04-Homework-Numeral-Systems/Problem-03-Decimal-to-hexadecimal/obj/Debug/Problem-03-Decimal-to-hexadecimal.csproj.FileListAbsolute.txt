@@ -1,5 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-03-Decimal-to-hexadecimal\bin\Debug\Problem-03-Decimal-to-hexadecimal.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-03-Decimal-to-hexadecimal\bin\Debug\Problem-03-Decimal-to-hexadecimal.exe
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-03-Decimal-to-hexadecimal\bin\Debug\Problem-03-Decimal-to-hexadecimal.pdb
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-03-Decimal-to-hexadecimal\obj\Debug\Problem-03-Decimal-to-hexadecimal.exe
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-03-Decimal-to-hexadecimal\obj\Debug\Problem-03-Decimal-to-hexadecimal.pdb

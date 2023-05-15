@@ -1,5 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-05-Hexadecimal-to-binary\bin\Debug\Problem-05-Hexadecimal-to-binary.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-05-Hexadecimal-to-binary\bin\Debug\Problem-05-Hexadecimal-to-binary.exe
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-05-Hexadecimal-to-binary\bin\Debug\Problem-05-Hexadecimal-to-binary.pdb
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-05-Hexadecimal-to-binary\obj\Debug\Problem-05-Hexadecimal-to-binary.exe
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-05-Hexadecimal-to-binary\obj\Debug\Problem-05-Hexadecimal-to-binary.pdb

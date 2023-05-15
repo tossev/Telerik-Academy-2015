@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-09-Frequent-number\bin\Debug\Problem-09-Frequent-number.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-09-Frequent-number\obj\Debug\Problem-09-Frequent-number.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-09-Frequent-number\bin\Debug\Problem-09-Frequent-number.exe
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-09-Frequent-number\bin\Debug\Problem-09-Frequent-number.pdb
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-09-Frequent-number\obj\Debug\Problem-09-Frequent-number.exe
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-09-Frequent-number\obj\Debug\Problem-09-Frequent-number.pdb

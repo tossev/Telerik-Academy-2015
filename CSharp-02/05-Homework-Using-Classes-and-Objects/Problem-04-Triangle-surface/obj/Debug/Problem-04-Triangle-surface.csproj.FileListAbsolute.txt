@@ -1,5 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-04-Triangle-surface\bin\Debug\Problem-04-Triangle-surface.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-04-Triangle-surface\bin\Debug\Problem-04-Triangle-surface.exe
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-04-Triangle-surface\bin\Debug\Problem-04-Triangle-surface.pdb
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-04-Triangle-surface\obj\Debug\Problem-04-Triangle-surface.exe
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-04-Triangle-surface\obj\Debug\Problem-04-Triangle-surface.pdb

@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-06-First-larger-than-neighbours\bin\Debug\Problem-06-First-larger-than-neighbours.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-06-First-larger-than-neighbours\bin\Debug\Problem-06-First-larger-than-neighbours.exe
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-06-First-larger-than-neighbours\bin\Debug\Problem-06-First-larger-than-neighbours.pdb
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-06-First-larger-than-neighbours\obj\Debug\Problem-06-First-larger-than-neighbours.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-06-First-larger-than-neighbours\obj\Debug\Problem-06-First-larger-than-neighbours.exe
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-06-First-larger-than-neighbours\obj\Debug\Problem-06-First-larger-than-neighbours.pdb

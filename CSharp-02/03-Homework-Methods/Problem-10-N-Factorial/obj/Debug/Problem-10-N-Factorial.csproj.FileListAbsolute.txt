@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-10-N-Factorial\bin\Debug\Problem-10-N-Factorial.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-10-N-Factorial\bin\Debug\Problem-10-N-Factorial.exe
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-10-N-Factorial\bin\Debug\Problem-10-N-Factorial.pdb
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-10-N-Factorial\obj\Debug\Problem-10-N-Factorial.exe
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-10-N-Factorial\obj\Debug\Problem-10-N-Factorial.pdb
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-10-N-Factorial\obj\Debug\Problem-10-N-Factorial.csprojResolveAssemblyReference.cache

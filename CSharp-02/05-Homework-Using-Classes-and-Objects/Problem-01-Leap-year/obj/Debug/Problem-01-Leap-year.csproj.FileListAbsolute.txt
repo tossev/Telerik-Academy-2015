@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-01-Leap-year\bin\Debug\Problem-01-Leap-year.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-01-Leap-year\bin\Debug\Problem-01-Leap-year.exe
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-01-Leap-year\bin\Debug\Problem-01-Leap-year.pdb
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-01-Leap-year\obj\Debug\Problem-01-Leap-year.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-01-Leap-year\obj\Debug\Problem-01-Leap-year.exe
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-01-Leap-year\obj\Debug\Problem-01-Leap-year.pdb

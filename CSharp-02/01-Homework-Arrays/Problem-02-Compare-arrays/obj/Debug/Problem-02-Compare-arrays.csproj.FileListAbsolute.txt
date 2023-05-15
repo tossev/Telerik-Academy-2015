@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-02-Compare-arrays\bin\Debug\Problem-02-Compare-arrays.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-02-Compare-arrays\bin\Debug\Problem-02-Compare-arrays.exe
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-02-Compare-arrays\bin\Debug\Problem-02-Compare-arrays.pdb
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-02-Compare-arrays\obj\Debug\Problem-02-Compare-arrays.exe
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-02-Compare-arrays\obj\Debug\Problem-02-Compare-arrays.pdb
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-02-Compare-arrays\obj\Debug\Problem-02-Compare-arrays.csprojResolveAssemblyReference.cache

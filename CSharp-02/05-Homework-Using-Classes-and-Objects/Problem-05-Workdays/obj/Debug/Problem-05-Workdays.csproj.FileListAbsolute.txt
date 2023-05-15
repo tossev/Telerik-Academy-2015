@@ -1,5 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-05-Workdays\bin\Debug\Problem-05-Workdays.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-05-Workdays\bin\Debug\Problem-05-Workdays.exe
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-05-Workdays\bin\Debug\Problem-05-Workdays.pdb
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-05-Workdays\obj\Debug\Problem-05-Workdays.exe
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-05-Workdays\obj\Debug\Problem-05-Workdays.pdb

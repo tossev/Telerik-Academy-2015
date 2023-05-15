@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-10-Find-sum-in-array\bin\Debug\Problem-10-Find-sum-in-array.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-10-Find-sum-in-array\bin\Debug\Problem-10-Find-sum-in-array.exe
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-10-Find-sum-in-array\bin\Debug\Problem-10-Find-sum-in-array.pdb
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-10-Find-sum-in-array\obj\Debug\Problem-10-Find-sum-in-array.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-10-Find-sum-in-array\obj\Debug\Problem-10-Find-sum-in-array.exe
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-10-Find-sum-in-array\obj\Debug\Problem-10-Find-sum-in-array.pdb

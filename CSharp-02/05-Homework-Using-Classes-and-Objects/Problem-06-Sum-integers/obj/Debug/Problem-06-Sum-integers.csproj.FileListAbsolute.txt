@@ -1,5 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-06-Sum-integers\bin\Debug\Problem-06-Sum-integers.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-06-Sum-integers\bin\Debug\Problem-06-Sum-integers.exe
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-06-Sum-integers\bin\Debug\Problem-06-Sum-integers.pdb
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-06-Sum-integers\obj\Debug\Problem-06-Sum-integers.exe
-D:\Telerik\Projects\CS Part 2\Homework 5\Homework-Using-Classes-and-Objects\Problem-06-Sum-integers\obj\Debug\Problem-06-Sum-integers.pdb

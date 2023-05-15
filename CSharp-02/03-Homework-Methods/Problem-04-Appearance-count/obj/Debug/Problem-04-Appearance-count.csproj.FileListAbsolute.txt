@@ -1,5 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-04-Appearance-count\bin\Debug\Problem-04-Appearance-count.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-04-Appearance-count\bin\Debug\Problem-04-Appearance-count.exe
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-04-Appearance-count\bin\Debug\Problem-04-Appearance-count.pdb
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-04-Appearance-count\obj\Debug\Problem-04-Appearance-count.exe
-D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-04-Appearance-count\obj\Debug\Problem-04-Appearance-count.pdb

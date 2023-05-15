@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-01-Decimal-to-binary\bin\Debug\Problem-01-Decimal-to-binary.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-01-Decimal-to-binary\bin\Debug\Problem-01-Decimal-to-binary.exe
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-01-Decimal-to-binary\bin\Debug\Problem-01-Decimal-to-binary.pdb
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-01-Decimal-to-binary\obj\Debug\Problem-01-Decimal-to-binary.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-01-Decimal-to-binary\obj\Debug\Problem-01-Decimal-to-binary.exe
-D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-01-Decimal-to-binary\obj\Debug\Problem-01-Decimal-to-binary.pdb

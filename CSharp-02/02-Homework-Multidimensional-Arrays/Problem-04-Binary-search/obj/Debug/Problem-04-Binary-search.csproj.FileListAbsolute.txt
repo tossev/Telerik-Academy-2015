@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-04-Binary-search\bin\Debug\Problem-04-Binary-search.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-04-Binary-search\bin\Debug\Problem-04-Binary-search.exe
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-04-Binary-search\bin\Debug\Problem-04-Binary-search.pdb
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-04-Binary-search\obj\Debug\Problem-04-Binary-search.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-04-Binary-search\obj\Debug\Problem-04-Binary-search.exe
-D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-04-Binary-search\obj\Debug\Problem-04-Binary-search.pdb

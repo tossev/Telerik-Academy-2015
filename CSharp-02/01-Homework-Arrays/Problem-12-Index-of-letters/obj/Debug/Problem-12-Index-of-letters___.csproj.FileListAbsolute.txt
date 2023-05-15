@@ -1,3 +1,0 @@
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-12-Index-of-letters\bin\Debug\Problem-12-Index-of-letters.exe.config
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-12-Index-of-letters\obj\Debug\Problem-12-Index-of-letters.exe
-D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-12-Index-of-letters\obj\Debug\Problem-12-Index-of-letters.pdb
