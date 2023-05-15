@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-8-Square-Root\bin\Debug\Problem-8-Square-Root.exe.config
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-8-Square-Root\bin\Debug\Problem-8-Square-Root.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-8-Square-Root\bin\Debug\Problem-8-Square-Root.pdb
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-8-Square-Root\obj\Debug\Problem-8-Square-Root.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-8-Square-Root\obj\Debug\Problem-8-Square-Root.pdb
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-8-Square-Root\obj\Debug\Problem-8-Square-Root.csprojResolveAssemblyReference.cache

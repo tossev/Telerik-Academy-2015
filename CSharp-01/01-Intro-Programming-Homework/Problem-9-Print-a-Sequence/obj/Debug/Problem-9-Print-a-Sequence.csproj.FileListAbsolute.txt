@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-9-Print-a-Sequence\bin\Debug\Problem-9-Print-a-Sequence.exe.config
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-9-Print-a-Sequence\obj\Debug\Problem-9-Print-a-Sequence.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-9-Print-a-Sequence\bin\Debug\Problem-9-Print-a-Sequence.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-9-Print-a-Sequence\bin\Debug\Problem-9-Print-a-Sequence.pdb
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-9-Print-a-Sequence\obj\Debug\Problem-9-Print-a-Sequence.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-9-Print-a-Sequence\obj\Debug\Problem-9-Print-a-Sequence.pdb
