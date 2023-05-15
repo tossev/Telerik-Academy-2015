@@ -1,0 +1,5 @@
+D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-2-Binary-to-decimal\bin\Debug\Problem-2-Binary-to-decimal.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-2-Binary-to-decimal\obj\Debug\Problem-2-Binary-to-decimal.exe
+D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-2-Binary-to-decimal\obj\Debug\Problem-2-Binary-to-decimal.pdb
+D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-2-Binary-to-decimal\bin\Debug\Problem-2-Binary-to-decimal.exe
+D:\Telerik\Projects\CS Part 2\Homework 4\Homework-Numeral-Systems\Problem-2-Binary-to-decimal\bin\Debug\Problem-2-Binary-to-decimal.pdb

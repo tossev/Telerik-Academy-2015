@@ -1,0 +1,5 @@
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-08-Maximal-sum\bin\Debug\Problem-08-Maximal-sum.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-08-Maximal-sum\bin\Debug\Problem-08-Maximal-sum.exe
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-08-Maximal-sum\bin\Debug\Problem-08-Maximal-sum.pdb
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-08-Maximal-sum\obj\Debug\Problem-08-Maximal-sum.exe
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-08-Maximal-sum\obj\Debug\Problem-08-Maximal-sum.pdb

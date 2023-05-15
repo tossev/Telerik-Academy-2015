@@ -1,0 +1,5 @@
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-5-Print-Your-Name\bin\Debug\Problem-5-Print-Your-Name.exe.config
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-5-Print-Your-Name\bin\Debug\Problem-5-Print-Your-Name.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-5-Print-Your-Name\bin\Debug\Problem-5-Print-Your-Name.pdb
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-5-Print-Your-Name\obj\Debug\Problem-5-Print-Your-Name.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-5-Print-Your-Name\obj\Debug\Problem-5-Print-Your-Name.pdb

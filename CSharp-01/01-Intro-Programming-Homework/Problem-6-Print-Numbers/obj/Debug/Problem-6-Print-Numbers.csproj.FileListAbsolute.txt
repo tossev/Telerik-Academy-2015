@@ -1,0 +1,5 @@
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-6-Print-Numbers\bin\Debug\Problem-6-Print-Numbers.exe.config
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-6-Print-Numbers\bin\Debug\Problem-6-Print-Numbers.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-6-Print-Numbers\bin\Debug\Problem-6-Print-Numbers.pdb
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-6-Print-Numbers\obj\Debug\Problem-6-Print-Numbers.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-6-Print-Numbers\obj\Debug\Problem-6-Print-Numbers.pdb

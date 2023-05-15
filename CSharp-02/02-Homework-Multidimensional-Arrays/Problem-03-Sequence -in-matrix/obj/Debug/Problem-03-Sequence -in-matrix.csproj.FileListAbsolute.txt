@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-03-Sequence -in-matrix\bin\Debug\Problem-03-Sequence -in-matrix.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-03-Sequence -in-matrix\bin\Debug\Problem-03-Sequence -in-matrix.exe
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-03-Sequence -in-matrix\bin\Debug\Problem-03-Sequence -in-matrix.pdb
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-03-Sequence -in-matrix\obj\Debug\Problem-03-Sequence -in-matrix.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-03-Sequence -in-matrix\obj\Debug\Problem-03-Sequence -in-matrix.exe
+D:\Telerik\Projects\CS Part 2\Homework 2\Homework-Multidimensional-Arrays\Problem-03-Sequence -in-matrix\obj\Debug\Problem-03-Sequence -in-matrix.pdb

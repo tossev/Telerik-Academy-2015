@@ -1,0 +1,5 @@
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-16-Decimal-to-Hexadecimal-Number\bin\Debug\Problem-16-Decimal-to-Hexadecimal-Number.exe.config
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-16-Decimal-to-Hexadecimal-Number\bin\Debug\Problem-16-Decimal-to-Hexadecimal-Number.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-16-Decimal-to-Hexadecimal-Number\bin\Debug\Problem-16-Decimal-to-Hexadecimal-Number.pdb
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-16-Decimal-to-Hexadecimal-Number\obj\Debug\Problem-16-Decimal-to-Hexadecimal-Number.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-16-Decimal-to-Hexadecimal-Number\obj\Debug\Problem-16-Decimal-to-Hexadecimal-Number.pdb

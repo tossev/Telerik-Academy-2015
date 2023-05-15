@@ -1,0 +1,4 @@
+	- C# is a language. but .NET is a framework. Framework means it contained different applications. Some Name of the applications are Consule Application,Windows Applications, Web Applications. .NET Framework is supports morethan 20 languages. Its a main difference between .NET and other languages. 
+	- .NET isn't just a library, but also a runtime for executing applications.
+	- The knowledge of C# implies some knowledge of .NET (because the C# object model corresponds to the .NET object model and you can do anything interesting in C# just by using .NET libraries). The opposite isn't necessarily true as you can use other languages to write .NET applications.
+	

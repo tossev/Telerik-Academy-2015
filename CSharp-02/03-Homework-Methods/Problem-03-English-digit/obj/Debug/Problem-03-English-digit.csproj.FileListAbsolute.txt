@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-03-English-digit\bin\Debug\Problem-03-English-digit.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-03-English-digit\bin\Debug\Problem-03-English-digit.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-03-English-digit\bin\Debug\Problem-03-English-digit.pdb
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-03-English-digit\obj\Debug\Problem-03-English-digit.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-03-English-digit\obj\Debug\Problem-03-English-digit.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-03-English-digit\obj\Debug\Problem-03-English-digit.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-05-Maximal-increasing-sequence\bin\Debug\Problem-05-Maximal-increasing-sequence.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-05-Maximal-increasing-sequence\bin\Debug\Problem-05-Maximal-increasing-sequence.exe
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-05-Maximal-increasing-sequence\bin\Debug\Problem-05-Maximal-increasing-sequence.pdb
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-05-Maximal-increasing-sequence\obj\Debug\Problem-05-Maximal-increasing-sequence.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-05-Maximal-increasing-sequence\obj\Debug\Problem-05-Maximal-increasing-sequence.exe
+D:\Telerik\Projects\CS Part 2\Homework 1\Homework-01-Arrays\Problem-05-Maximal-increasing-sequence\obj\Debug\Problem-05-Maximal-increasing-sequence.pdb

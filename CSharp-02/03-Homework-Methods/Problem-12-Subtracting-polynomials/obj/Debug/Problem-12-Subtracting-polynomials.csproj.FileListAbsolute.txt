@@ -1,0 +1,5 @@
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-12-Subtracting-polynomials\bin\Debug\Problem-12-Subtracting-polynomials.exe.config
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-12-Subtracting-polynomials\bin\Debug\Problem-12-Subtracting-polynomials.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-12-Subtracting-polynomials\bin\Debug\Problem-12-Subtracting-polynomials.pdb
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-12-Subtracting-polynomials\obj\Debug\Problem-12-Subtracting-polynomials.exe
+D:\Telerik\Projects\CS Part 2\Homework 3\Homework-Methods\Problem-12-Subtracting-polynomials\obj\Debug\Problem-12-Subtracting-polynomials.pdb

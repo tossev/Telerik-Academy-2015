@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-19-Spiral-Matrix\bin\Debug\Problem-19-Spiral-Matrix.exe.config
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-19-Spiral-Matrix\bin\Debug\Problem-19-Spiral-Matrix.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-19-Spiral-Matrix\bin\Debug\Problem-19-Spiral-Matrix.pdb
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-19-Spiral-Matrix\obj\Debug\Problem-19-Spiral-Matrix.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-19-Spiral-Matrix\obj\Debug\Problem-19-Spiral-Matrix.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-19-Spiral-Matrix\obj\Debug\Problem-19-Spiral-Matrix.pdb

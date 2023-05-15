@@ -1,0 +1,6 @@
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-7-Print-First-and-Last-Name\bin\Debug\Problem-7-Print-First-and-Last-Name.exe.config
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-7-Print-First-and-Last-Name\bin\Debug\Problem-7-Print-First-and-Last-Name.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-7-Print-First-and-Last-Name\bin\Debug\Problem-7-Print-First-and-Last-Name.pdb
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-7-Print-First-and-Last-Name\obj\Debug\Problem-7-Print-First-and-Last-Name.csprojResolveAssemblyReference.cache
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-7-Print-First-and-Last-Name\obj\Debug\Problem-7-Print-First-and-Last-Name.exe
+D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-7-Print-First-and-Last-Name\obj\Debug\Problem-7-Print-First-and-Last-Name.pdb
