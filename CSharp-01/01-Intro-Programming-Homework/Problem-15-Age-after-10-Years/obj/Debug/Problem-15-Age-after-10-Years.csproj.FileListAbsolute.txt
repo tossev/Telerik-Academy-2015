@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-15-Age-after-10-Years\bin\Debug\Problem-15-Age-after-10-Years.exe.config
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-15-Age-after-10-Years\bin\Debug\Problem-15-Age-after-10-Years.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-15-Age-after-10-Years\bin\Debug\Problem-15-Age-after-10-Years.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-15-Age-after-10-Years\obj\Debug\Problem-15-Age-after-10-Years.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-15-Age-after-10-Years\obj\Debug\Problem-15-Age-after-10-Years.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-15-Age-after-10-Years\obj\Debug\Problem-15-Age-after-10-Years.pdb

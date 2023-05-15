@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-14-Current-Date-and-Time\bin\Debug\Problem-14-Current-Date-and-Time.exe.config
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-14-Current-Date-and-Time\bin\Debug\Problem-14-Current-Date-and-Time.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-14-Current-Date-and-Time\bin\Debug\Problem-14-Current-Date-and-Time.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-14-Current-Date-and-Time\obj\Debug\Problem-14-Current-Date-and-Time.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-14-Current-Date-and-Time\obj\Debug\Problem-14-Current-Date-and-Time.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-14-Current-Date-and-Time\obj\Debug\Problem-14-Current-Date-and-Time.csprojResolveAssemblyReference.cache

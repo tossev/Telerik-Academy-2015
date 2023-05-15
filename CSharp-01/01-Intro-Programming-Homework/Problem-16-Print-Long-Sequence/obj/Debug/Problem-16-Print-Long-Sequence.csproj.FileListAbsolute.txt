@@ -1,5 +1,0 @@
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-16-Print-Long-Sequence\bin\Debug\Problem-16-Print-Long-Sequence.exe.config
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-16-Print-Long-Sequence\bin\Debug\Problem-16-Print-Long-Sequence.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-16-Print-Long-Sequence\bin\Debug\Problem-16-Print-Long-Sequence.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-16-Print-Long-Sequence\obj\Debug\Problem-16-Print-Long-Sequence.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 1\Intro-Programming-Homework\Problem-16-Print-Long-Sequence\obj\Debug\Problem-16-Print-Long-Sequence.pdb
