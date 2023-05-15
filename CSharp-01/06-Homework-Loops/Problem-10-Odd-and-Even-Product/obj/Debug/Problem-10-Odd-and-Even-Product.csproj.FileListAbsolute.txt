@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-10-Odd-and-Even-Product\bin\Debug\Problem-10-Odd-and-Even-Product.exe.config
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-10-Odd-and-Even-Product\bin\Debug\Problem-10-Odd-and-Even-Product.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-10-Odd-and-Even-Product\bin\Debug\Problem-10-Odd-and-Even-Product.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-10-Odd-and-Even-Product\obj\Debug\Problem-10-Odd-and-Even-Product.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-10-Odd-and-Even-Product\obj\Debug\Problem-10-Odd-and-Even-Product.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-10-Odd-and-Even-Product\obj\Debug\Problem-10-Odd-and-Even-Product.csprojResolveAssemblyReference.cache

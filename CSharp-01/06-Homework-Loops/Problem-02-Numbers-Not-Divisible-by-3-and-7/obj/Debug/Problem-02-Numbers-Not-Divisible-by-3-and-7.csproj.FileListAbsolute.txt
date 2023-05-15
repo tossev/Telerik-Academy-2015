@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-02-Numbers-Not-Divisible-by-3-and-7\bin\Debug\Problem-02-Numbers-Not-Divisible-by-3-and-7.exe.config
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-02-Numbers-Not-Divisible-by-3-and-7\bin\Debug\Problem-02-Numbers-Not-Divisible-by-3-and-7.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-02-Numbers-Not-Divisible-by-3-and-7\bin\Debug\Problem-02-Numbers-Not-Divisible-by-3-and-7.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-02-Numbers-Not-Divisible-by-3-and-7\obj\Debug\Problem-02-Numbers-Not-Divisible-by-3-and-7.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-02-Numbers-Not-Divisible-by-3-and-7\obj\Debug\Problem-02-Numbers-Not-Divisible-by-3-and-7.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-02-Numbers-Not-Divisible-by-3-and-7\obj\Debug\Problem-02-Numbers-Not-Divisible-by-3-and-7.pdb

@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem12-Randomize-the-Numbers-1-N\bin\Debug\Problem12-Randomize-the-Numbers-1-N.exe.config
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem12-Randomize-the-Numbers-1-N\bin\Debug\Problem12-Randomize-the-Numbers-1-N.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem12-Randomize-the-Numbers-1-N\bin\Debug\Problem12-Randomize-the-Numbers-1-N.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem12-Randomize-the-Numbers-1-N\obj\Debug\Problem12-Randomize-the-Numbers-1-N.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem12-Randomize-the-Numbers-1-N\obj\Debug\Problem12-Randomize-the-Numbers-1-N.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem12-Randomize-the-Numbers-1-N\obj\Debug\Problem12-Randomize-the-Numbers-1-N.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-04-Print-a-Deck-of-52-Cards\bin\Debug\Problem-04-Print-a-Deck-of-52-Cards.exe.config
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-04-Print-a-Deck-of-52-Cards\bin\Debug\Problem-04-Print-a-Deck-of-52-Cards.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-04-Print-a-Deck-of-52-Cards\bin\Debug\Problem-04-Print-a-Deck-of-52-Cards.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-04-Print-a-Deck-of-52-Cards\obj\Debug\Problem-04-Print-a-Deck-of-52-Cards.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-04-Print-a-Deck-of-52-Cards\obj\Debug\Problem-04-Print-a-Deck-of-52-Cards.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-04-Print-a-Deck-of-52-Cards\obj\Debug\Problem-04-Print-a-Deck-of-52-Cards.pdb

@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-15-Hexadecimal-to-Decimal-Number\bin\Debug\Problem-15-Hexadecimal-to-Decimal-Number.exe.config
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-15-Hexadecimal-to-Decimal-Number\obj\Debug\Problem-15-Hexadecimal-to-Decimal-Number.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-15-Hexadecimal-to-Decimal-Number\bin\Debug\Problem-15-Hexadecimal-to-Decimal-Number.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-15-Hexadecimal-to-Decimal-Number\bin\Debug\Problem-15-Hexadecimal-to-Decimal-Number.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-15-Hexadecimal-to-Decimal-Number\obj\Debug\Problem-15-Hexadecimal-to-Decimal-Number.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-15-Hexadecimal-to-Decimal-Number\obj\Debug\Problem-15-Hexadecimal-to-Decimal-Number.pdb

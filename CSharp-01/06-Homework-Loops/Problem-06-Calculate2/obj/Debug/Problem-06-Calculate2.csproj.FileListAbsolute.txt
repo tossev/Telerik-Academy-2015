@@ -1,6 +1,0 @@
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-06-Calculate2\bin\Debug\Problem-06-Calculate2.exe.config
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-06-Calculate2\bin\Debug\Problem-06-Calculate2.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-06-Calculate2\bin\Debug\Problem-06-Calculate2.pdb
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-06-Calculate2\obj\Debug\Problem-06-Calculate2.csprojResolveAssemblyReference.cache
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-06-Calculate2\obj\Debug\Problem-06-Calculate2.exe
-D:\Telerik\Projects\CS\Homeworks\Homework 6\Homework-Loops\Problem-06-Calculate2\obj\Debug\Problem-06-Calculate2.pdb
